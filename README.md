@@ -1,6 +1,8 @@
 # Growbox
 Open Source Code and instructions for making your own grow box using off-the-shelf components
 
+DOCUMENTATION IN PROGRESS, CODE WORKS.
+
 Current version is 1.0
 Everything works, and the logic is ROCK SOLID.
 I even included safety precautions, for example, if the heater or the CO2 runs for longer than 120seconds (2minutes) it will turn them off once.
@@ -11,7 +13,9 @@ This is just so that if they are turned on, and a sensor fails/disconnects, the 
 
 The only problem is that the screen doesn't draw it perfectly and every 5 sec there is a short flicker, but it is totally usable.
 
-
+IMPORTANT NOTES:
+You must use my edited tft_eSPI library, because there are some changes needed for it to work properly with ESP32 
+The other libraries you can download somewhere else, I just included them for simplicity, or if they break in the future.
 
 
 
