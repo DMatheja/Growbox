@@ -6,7 +6,7 @@
 #include <Adafruit_GFX.h>
 //#include <Adafruit_SSD1306.h>
 #include <Adafruit_Sensor.h>
-#include <esp_wifi.h>
+//#include <esp_wifi.h>
 //Display libraries
 #include <SPI.h>
 #include <TFT_eSPI.h>  // Hardware-specific library
