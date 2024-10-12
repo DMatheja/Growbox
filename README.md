@@ -1,6 +1,20 @@
 # Growbox
 Open Source Code and instructions for making your own grow box using off-the-shelf components
 
+you need:
+ESP32
+WiFi Smart plug (Tasmota firmware!!!)
+CO2 Sensor (MHZ19B)
+Temp/Humidity Sensor (DHT22)
+1.8" TFT Screen (SPI)
+3 Buttons
+5V Power Supply 
+Skill to make Basic electrical connections (solder or crimping)
+
+you also need:
+A fridge 
+small 12V heater in the fridge, powered by any PSU you can trigger through connecting a PIN to ground (like any ATX-PSU)
+Electric CO2 Valve (Optional, but required if you're goal is to make the BEST)
 DOCUMENTATION IN PROGRESS, CODE WORKS.
 
 Current version is 1.0
