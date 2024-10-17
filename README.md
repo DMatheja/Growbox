@@ -23,7 +23,7 @@ I even included safety precautions, for example, if the heater or the CO2 runs f
 They will get turned back on if they need to.
 This is just so that if they are turned on, and a sensor fails/disconnects, the system will turn them off eventually.
 
-###TL:DR The code is definatly not perfect, but it works.###
+###TL:DR The code is definitely not perfect, but it works.###
 
 The only problem is that the screen doesn't draw it perfectly and every 5 sec there is a short flicker, but it is totally usable.
 
