@@ -9,6 +9,7 @@ Temp/Humidity Sensor (DHT22)
 1.8" TFT Screen (SPI)
 3 Buttons
 5V Power Supply 
+
 Skill to make Basic electrical connections (solder or crimping)
 
 you also need:
