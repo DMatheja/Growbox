@@ -29,11 +29,8 @@ This is just so that if they are turned on, and a sensor fails/disconnects, the 
 
 ###TL:DR The code is definitely not perfect, but it works.###
 
-The only problem is that the screen doesn't draw it perfectly and every 5 sec there is a short flicker, but it is totally usable.
 
 IMPORTANT NOTES:
-You must use my edited tft_eSPI library, because there are some changes needed for it to work properly with ESP32 
-The other libraries you can download somewhere else, I just included them for simplicity, or if they break in the future.
 
 Update: you probably don't need to use my edited library, it was a different issue and I fixed it, the problem was: you can't use esp32wifi library together with the normal wifi library. so I just kicked the esp32wifi library out, libraries are bloat anyways.
 
