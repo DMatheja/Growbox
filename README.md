@@ -12,6 +12,8 @@ Temp/Humidity Sensor (DHT22)
 5V Power Supply 
 
 Skill to make Basic electrical connections (solder or crimping)
+![image](https://github.com/user-attachments/assets/0d7308c3-8ece-402f-9112-6e2553abdfa3)
+![image](https://github.com/user-attachments/assets/3794219f-05cf-4a01-ad64-345ff176bf25)
 
 you also need:
 A fridge 
