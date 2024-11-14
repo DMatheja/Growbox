@@ -1,5 +1,6 @@
 # Growbox
 Open Source Code and instructions for making your own grow box using off-the-shelf components
+![image](https://github.com/user-attachments/assets/af85ba5d-cbf8-4bb9-bc71-5a032a067d01)
 
 you need:
 ESP32
