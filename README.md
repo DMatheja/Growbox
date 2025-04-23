@@ -16,7 +16,7 @@ Skill to make Basic electrical connections (solder or crimping)
 ![image](https://github.com/user-attachments/assets/3794219f-05cf-4a01-ad64-345ff176bf25)
 
 you also need:
-A fridge 
+A fridge, 
 small 12V heater in the fridge, powered by any PSU you can trigger through connecting a PIN to ground (like any ATX-PSU)
 Electric CO2 Valve (Optional, but required if you're goal is to make the BEST)
 DOCUMENTATION IN PROGRESS, CODE WORKS.
